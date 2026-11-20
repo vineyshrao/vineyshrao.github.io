@@ -32,6 +32,12 @@ export const siteConfig = {
         "As one part of this larger industry practicum project, I built an automation that takes the HitTrax CSV files the client receives by email and loads them into Google Cloud Storage, using Gmail and Google Apps Script. I beta-tested it on a separate Gmail account, presented a proof of concept to the client, and then tested it successfully with them. It is set up to run once a week, on Mondays, as the client asked.",
       skills: ["Google Apps Script", "Gmail", "Google Cloud Storage"],
     },
+    {
+      name: "Elevate Stride: prototype of an elevation-aware running app",
+      description:
+        "An academic information systems project to design a fitness app that tracks the details of a run and takes changes in surface elevation into account when estimating heart rate and calories burned. I worked through the software development lifecycle, from shaping the concept to building a prototype of the app on a low-code platform.",
+      skills: ["Low-code development", "Prototyping", "Software development lifecycle"],
+    },
   ],
   experience: [
     {
