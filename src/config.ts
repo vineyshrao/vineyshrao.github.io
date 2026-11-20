@@ -6,7 +6,7 @@ export const siteConfig = {
     "Portfolio of Vineysh Rao Ananda Rao: data analytics and data engineering work in SQL, R, Power BI and Google Cloud.",
   accentColor: "#8E6F3E",
   social: {
-    email: "vanandar@purdue.edu",
+    email: "vineyshrao@gmail.com",
     linkedin: "https://www.linkedin.com/in/vineysh-rao-ananda-rao-691ba5269",
     github: "https://github.com/vineyshrao",
   },
