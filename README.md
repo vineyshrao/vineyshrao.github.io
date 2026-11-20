@@ -1,7 +1,7 @@
-# Hi, I'm Vineysh 👋
+# Vineysh Rao Ananda Rao: portfolio
 
-MS Business Analytics & Information Management student at Purdue (Daniels School of Business).
-I work across data analytics and data engineering: SQL, R, Python, Power BI and Google Cloud.
+Source for my personal portfolio site. All content lives in `src/config.ts`.
 
-🌐 Portfolio: https://vineyshrao.github.io
-💼 LinkedIn: https://www.linkedin.com/in/vineysh-rao-ananda-rao-691ba5269
+Built with [devportfolio](https://github.com/RyanFitzgerald/devportfolio) by Ryan Fitzgerald,
+used under the MIT License (see `LICENSE.md`). Deployed to GitHub Pages by the workflow in
+`.github/workflows/deploy.yml`.
